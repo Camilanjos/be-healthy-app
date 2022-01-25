@@ -1,0 +1,12 @@
+#Be Healthy
+
+Aplicativo desenvolvido com base na acessibibilidade intuitiva 
+para o usuário, ajudando com um método mais orgânico como viver de
+forma mais saudável.
+
+Nesse app, o usuário poderá:
+adicionar lembretes diários para beber água
+adicionar os momentos de atividade física
+pausas ao longo do dia para descanso, incluindo ao sistema sonoro com 
+músicas que o ajudarão nesse momento.
+Receitas faceis e práticas  
